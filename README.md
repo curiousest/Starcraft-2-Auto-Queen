@@ -8,17 +8,17 @@
 
 <h2>Usage</h2>
 <p>Immediately after initiating the auto-injecting and every 30s thereafter, your computer will beep. One second later, the script will press:</p>
-<u1>
+<ul>
 <li>'ctrl+9' (to save your currently selected units)</li>
 <li>'6' (to select the queens)</li> 
 <li>for every hatchery you've indicated, it will press 'v' and click on that hatchery on the minimap</li>
 <li>'9' (to reselect the units you had selected)</li>
-</u1>
+</ul>
 <p>Before entering a command, press the '\' key. There are four commands:</p>
 <u1>
 <li>'o' <strong>indicate hatchery</strong> - after pressing \o, click on your minimap where the hatchery is located. The location is now stored for future use in the script.</li>
 <li>'q' <strong>initiate auto-injecting</strong> the script will begin auto-injecting every 30s. Before this command is issued, you must have indicated at least one hatchery location.</li> 
 <li>'r' <strong>reset script</strong> this will delete all hatchery locations in memory and stop auto-injecting every 30s. You may re-assign the hatchery locations and start the auto-injections again.</li>
 <li>'p' <strong>quit</strong></li>
-</u1>
+</ul>
 <p><strong>Notes:</strong>I recommend that you refrain from moving your mouse or pressing buttons during the <0.5s when the auto-injecting is happening. If you use the grid layout (not default), edit the script to change the 'v' to 'x' where it's marked. Assign your queens to hotkey 6. The script will use hotkey 9 to reselect the units you had selected when the script started. While the script is running, you may use four commands:</p>
