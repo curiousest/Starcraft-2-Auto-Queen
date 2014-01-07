@@ -21,4 +21,4 @@
 <li>'r' <strong>reset script</strong> this will delete all hatchery locations in memory and stop auto-injecting every 30s. You may re-assign the hatchery locations and start the auto-injections again.</li>
 <li>'p' <strong>quit</strong></li>
 </ul>
-<p><strong>Notes:</strong>I recommend that you refrain from moving your mouse or pressing buttons during the <0.5s when the auto-injecting is happening. If you use the grid layout (not default), edit the script to change the 'v' to 'x' where it's marked. Assign your queens to hotkey 6. The script will use hotkey 9 to reselect the units you had selected when the script started. While the script is running, you may use four commands:</p>
+<p><strong>Notes:</strong>I recommend that you refrain from moving your mouse or pressing buttons during the 0.1s when the auto-injecting is happening. If you use the grid layout (not default), edit the script to change the 'v' to 'x' where it's marked. Assign your queens to hotkey 6. The script will use hotkey 9 to reselect the units you had selected when the script started. While the script is running, you may use four commands:</p>

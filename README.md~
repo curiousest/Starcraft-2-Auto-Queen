@@ -15,7 +15,7 @@
 <li>'9' (to reselect the units you had selected)</li>
 </ul>
 <p>Before entering a command, press the '\' key. There are four commands:</p>
-<u1>
+<ul>
 <li>'o' <strong>indicate hatchery</strong> - after pressing \o, click on your minimap where the hatchery is located. The location is now stored for future use in the script.</li>
 <li>'q' <strong>initiate auto-injecting</strong> the script will begin auto-injecting every 30s. Before this command is issued, you must have indicated at least one hatchery location.</li> 
 <li>'r' <strong>reset script</strong> this will delete all hatchery locations in memory and stop auto-injecting every 30s. You may re-assign the hatchery locations and start the auto-injections again.</li>
