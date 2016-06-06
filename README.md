@@ -1,3 +1,5 @@
+I wrote this in 2010 before I knew Python, don't judge.
+
 <h1>Starcraft 2 Auto-Queen</h1>
 
 <h2>Purpose</h2>
